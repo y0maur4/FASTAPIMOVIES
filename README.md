@@ -1,4 +1,3 @@
-````markdown id="r9m4fa"
 # 🎬 FastAPI Movies
 
 A RESTful API built with **Python** and **FastAPI** for managing a movie catalog. This project demonstrates modern backend development practices, including CRUD operations, request validation, and automatic API documentation.
